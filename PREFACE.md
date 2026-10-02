@@ -1,6 +1,6 @@
 # Preface: Materials as the Final Moat
 
-## By Charlie Munger's Latticework Principles
+## First-Principles Latticework & Economic Moats
 
 ---
 

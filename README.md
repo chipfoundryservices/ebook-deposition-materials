@@ -8,7 +8,7 @@
 
 *Deposition & Materials Engineering* is a comprehensive exploration of thin-film deposition technologies, electrochemistry of copper plating, dielectric physics, and the materials science that underlies modern semiconductor interconnect and gate stacks. This book bridges plasma-based deposition with electrochemical engineering, revealing why companies like **Lam Research, Applied Materials, and Tokyo Electron** command durable competitive advantages in the deposition market.
 
-Following the Charlie Munger lattice-work model, this book combines:
+Following a multidisciplinary lattice-work model, this book combines:
 - **Physical first principles** (CVD/PVD/ALD reaction kinetics, copper electrodeposition, dielectric constants)
 - **Materials engineering secrets** (high-κ/low-κ integration, barrier layer chemistry, thermal stability)
 - **Economic moats** (deposition equipment capex cycles, consumables supply chains, process IP)
@@ -55,7 +55,7 @@ This book is designed for:
 ```
 ebook-deposition-materials/
 ├── README.md                          (this file)
-├── PREFACE.md                         (Charlie Munger: Materials as Moat)
+├── PREFACE.md                         (Preface: Materials as Moat)
 ├── chapters/
 │   ├── 01-cvd-pvd-ald-trinity.md
 │   ├── 02-cvd-reaction-kinetics.md

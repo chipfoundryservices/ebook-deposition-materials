@@ -344,6 +344,6 @@ By understanding deposition physics, materials chemistry, and equipment economic
 
 ---
 
-**The book is complete.** All 8 chapters (2,600+ lines) have been written following the Charlie Munger inversion framework and established across Books 1-5.
+**The book is complete.** All 8 chapters (2,600+ lines) have been written following the first-principles inversion framework and established across Books 1-5.
 
 Next steps: Commit to git, create appendices, push to GitHub, and deploy to 4 remote websites.
